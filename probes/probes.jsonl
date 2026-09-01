@@ -1,0 +1,8 @@
+{"input": 2015, "expect": false, "task": "leap", "lang": "python"}
+{"input": 1970, "expect": false, "task": "leap", "lang": "python"}
+{"input": 1996, "expect": true, "task": "leap", "lang": "python"}
+{"input": 1960, "expect": true, "task": "leap", "lang": "python"}
+{"input": 2100, "expect": false, "task": "leap", "lang": "python"}
+{"input": 1900, "expect": false, "task": "leap", "lang": "python"}
+{"input": 2000, "expect": true, "task": "leap", "lang": "python"}
+{"input": 2400, "expect": true, "task": "leap", "lang": "python"}
